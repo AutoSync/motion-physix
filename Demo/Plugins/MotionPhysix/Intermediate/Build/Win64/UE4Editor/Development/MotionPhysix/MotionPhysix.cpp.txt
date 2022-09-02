@@ -1,0 +1,2 @@
+G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Plugins\MotionPhysix\Intermediate\Build\Win64\UE4Editor\Development\MotionPhysix\Definitions.MotionPhysix.h
+G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Plugins\MotionPhysix\Source\MotionPhysix\Public\MotionPhysix.h

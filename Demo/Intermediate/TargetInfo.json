@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Demo",
+			"Path": "G:\\GameDeveloper\\CODIGO FONTE\\UNREAL\\motion-physix\\Demo\\Source\\Demo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DemoEditor",
+			"Path": "G:\\GameDeveloper\\CODIGO FONTE\\UNREAL\\motion-physix\\Demo\\Source\\DemoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

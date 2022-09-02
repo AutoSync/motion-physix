@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"G:\\GameDeveloper\\CODIGO FONTE\\UNREAL\\motion-physix\\Demo\\Source\\Demo\\Demo.Build.cs",
+		"G:\\GameDeveloper\\CODIGO FONTE\\UNREAL\\motion-physix\\Demo\\Plugins\\MotionPhysix\\Source\\MotionPhysix\\MotionPhysix.Build.cs",
+		"G:\\GameDeveloper\\CODIGO FONTE\\UNREAL\\motion-physix\\Demo\\Source\\Demo.Target.cs",
+		"G:\\GameDeveloper\\CODIGO FONTE\\UNREAL\\motion-physix\\Demo\\Source\\DemoEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

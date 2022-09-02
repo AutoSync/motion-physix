@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MotionPhysix.cpp.obj": [
+			"MotionPhysix.cpp.obj",
+			"MotionPhysixVehicle.cpp.obj"
+		],
+		"Module.MotionPhysix.gen.cpp.obj": [
+			"MotionPhysix.init.gen.cpp.obj",
+			"MotionPhysixVehicle.gen.cpp.obj"
+		]
+	}
+}

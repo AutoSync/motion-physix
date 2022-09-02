@@ -1,0 +1,15 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix).
+  Creating makefile for DemoEditor (no existing makefile)
+  Parsing headers for DemoEditor
+    Running UnrealHeaderTool "G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Demo.uproject" "G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Intermediate\Build\Win64\DemoEditor\Development\DemoEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\erick\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for DemoEditor in 12,6941753 seconds
+  Building DemoEditor...
+  Using Visual Studio 2019 14.29.30146 toolchain (G:\Arquivos\HDS\vs2019\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 7 actions with 4 processes...
+    [1/7] UE4Editor-Demo-0001.lib
+       Criando biblioteca G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\UE4Editor-Demo-0001.lib e objeto G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\UE4Editor-Demo-0001.exp
+    [2/7] UE4Editor-Demo-0001.dll
+       Criando biblioteca G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\UE4Editor-Demo-0001.suppressed.lib e objeto G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\UE4Editor-Demo-0001.suppressed.exp
+G:\Arquivos\HDS\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): warning MSB5021: Encerrando a tarefa executável "cmd" e seus processos filho porque o build foi cancelado.
+G:\Arquivos\HDS\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB4181: A tarefa "Exec" retornou false, mas não registrou um erro.

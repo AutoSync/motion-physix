@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MotionPhysix-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Intermediate\Build\Win64\DemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Plugins\MotionPhysix\Intermediate\Build\Win64\UE4Editor\Development\MotionPhysix\Module.MotionPhysix.cpp.obj"
+"G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Plugins\MotionPhysix\Intermediate\Build\Win64\UE4Editor\Development\MotionPhysix\Module.MotionPhysix.gen.cpp.obj"
+"G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Plugins\MotionPhysix\Intermediate\Build\Win64\UE4Editor\Development\MotionPhysix\Default.rc2.res"
+/OUT:"G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Plugins\MotionPhysix\Intermediate\Build\Win64\UE4Editor\Development\MotionPhysix\UE4Editor-MotionPhysix-0001.lib"

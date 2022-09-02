@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Demo.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{66015421-019B-4822-8B6D-480D690E2081}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Demo.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DemoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{586D4EF7-F163-49DD-B8EF-2CBDF145D398}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{6D21F783-9C1F-4AFE-986D-D133A7469837}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MotionPhysix">
+      <UniqueIdentifier>{C81A86E1-44DC-4A9F-9DFB-11DFB46A91E0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MotionPhysix\Source">
+      <UniqueIdentifier>{11B8AD52-8014-4068-B9A1-4B0FA6FEAEFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MotionPhysix\Source\MotionPhysix">
+      <UniqueIdentifier>{A936A3A8-83E0-4D91-9703-8BC3BBBF9A26}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MotionPhysix\Source\MotionPhysix\MotionPhysix.Build.cs">
+      <Filter>Plugins\MotionPhysix\Source\MotionPhysix</Filter>
+    </None>
+    <Filter Include="Plugins\MotionPhysix\Source\MotionPhysix\Private">
+      <UniqueIdentifier>{780B848C-3A82-473C-8BEB-4DEE9C45F256}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\MotionPhysix\Source\MotionPhysix\Private\MotionPhysix.cpp">
+      <Filter>Plugins\MotionPhysix\Source\MotionPhysix\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\MotionPhysix\Source\MotionPhysix\Private\MotionPhysixVehicle.cpp">
+      <Filter>Plugins\MotionPhysix\Source\MotionPhysix\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\MotionPhysix\Source\MotionPhysix\Public">
+      <UniqueIdentifier>{D6550A01-B846-41A1-B855-C0FB622B20AB}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\MotionPhysix\Source\MotionPhysix\Public\MotionPhysix.h">
+      <Filter>Plugins\MotionPhysix\Source\MotionPhysix\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\MotionPhysix\Source\MotionPhysix\Public\MotionPhysixVehicle.h">
+      <Filter>Plugins\MotionPhysix\Source\MotionPhysix\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\MotionPhysix\MotionPhysix.uplugin">
+      <Filter>Plugins\MotionPhysix</Filter>
+    </None>
+    <Filter Include="Plugins\MotionPhysix\Resources">
+      <UniqueIdentifier>{7ECCA432-19CC-42EE-85D4-7F9C3298AE04}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MotionPhysix\Resources\Icon128.png">
+      <Filter>Plugins\MotionPhysix\Resources</Filter>
+    </None>
+    <Filter Include="Source\Demo">
+      <UniqueIdentifier>{8EF16C24-74E0-493A-9805-66B03AA5DEEA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Demo\Demo.Build.cs">
+      <Filter>Source\Demo</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Demo\Demo.cpp">
+      <Filter>Source\Demo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Demo\Demo.h">
+      <Filter>Source\Demo</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Demo\DemoGameModeBase.cpp">
+      <Filter>Source\Demo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Demo\DemoGameModeBase.h">
+      <Filter>Source\Demo</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

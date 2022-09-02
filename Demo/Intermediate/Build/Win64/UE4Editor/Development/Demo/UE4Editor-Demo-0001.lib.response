@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Demo-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Intermediate\Build\Win64\DemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\Demo.cpp.obj"
+"G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\DemoGameModeBase.cpp.obj"
+"G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\Demo.init.gen.cpp.obj"
+"G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\DemoGameModeBase.gen.cpp.obj"
+"G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\Default.rc2.res"
+/OUT:"G:\GameDeveloper\CODIGO FONTE\UNREAL\motion-physix\Demo\Intermediate\Build\Win64\UE4Editor\Development\Demo\UE4Editor-Demo-0001.lib"
